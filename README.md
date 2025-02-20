@@ -7,7 +7,7 @@ a very simple flappy bird webpage includes
 - name system
 
 Instructions:
-run `$ git clone`
+run `$ git clone https://github.com/Alvinyuen123/Flappy-Bird.git`
 then `$ npm install`
 and then the others:
 `$ npm run build`
